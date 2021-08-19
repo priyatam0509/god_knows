@@ -1,0 +1,223 @@
+
+
+@media (max-width: 1200px) and (min-width: 992px) {
+
+}
+
+@media (max-width: 1199px) {
+.graph-total h6 {
+    font-size: 24px;
+    color: #003968;
+}
+}
+
+@media (max-width: 1199px) and (min-width:992px){
+	
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (max-width: 991px) {
+.return-capital-main-inner-content h3 {
+    font-size: 18px;
+}
+     
+
+.graph-total h6 {
+    font-size: 18px;
+}  
+    
+.provo-and-governors-main-inner-image{
+    margin-top: 0;
+    padding: 0;
+}    
+    
+.snip1552 {
+    max-width: 50%;
+}
+    
+#our-vision {
+    background-position: center;
+    
+}
+    
+#our-vision:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+    background: rgba(253, 253, 253, 0.7);
+}
+    
+.product-links li a {
+    min-width: 230px;
+}
+    
+.snip1531 {
+    max-width: 50%;
+}     
+.snip153 {
+    max-width: 50%;
+} 
+    
+.single-bio-content {
+    right: 5%;
+        min-height: 300px;
+} 
+    
+#cssmenu > ul > li.has-sub > a {
+    padding-right: 0px !important;
+}
+    
+.main-boxes-inner-content {
+    margin-top: 15px;
+} 
+    
+.big-background h1{
+	font-size: 80px;
+}    
+.text1 h2 {
+    font-size: 80px;
+} 
+    
+.vid-info {
+    margin-top: 40%;
+}    
+}
+
+
+@media (max-width: 991px) and (min-width:421px){
+	
+	
+}
+
+@media (min-width: 768px) {
+
+}
+	
+	
+	
+@media (max-width: 767px) {
+.vid-info {
+    margin-top: 65%;
+}    
+    
+.return-capital-main-inner {
+    padding-left: 0 !important;
+}
+ 
+li.graph-total.g-green {
+    margin-right: 10px;
+} 
+    
+#our-vision {
+     background-size: cover; 
+}    
+    
+.hero-content {
+    top: 5%;
+}
+    
+.big-background h1 {
+    font-size: 60px;
+    margin-bottom: 15px;
+} 
+    
+.text1 h2 {
+    font-size: 50px;
+}    
+    
+.snip1552 {
+    max-width: 100%;
+}
+    
+.new-footer-ul li {
+    font-size: 14px;
+}
+    
+p {
+    font-size: 14px;
+}    
+
+    
+.product-links li {
+    display: block;
+    margin-bottom: 15px;
+}
+    
+.product-links li:nth-child(2) {
+    margin: 15px 0;
+}
+    
+.product-links li a {
+    min-width: 250px;
+}  
+    
+
+    
+#commitment h1 {
+    font-size: 36px;
+}
+    
+.snip1531 {
+    max-width: 100%;
+}
+    
+.snip153 {
+    max-width: 25%;
+    min-width: 25%;
+}    
+    
+.single-bio-image img {
+    min-height: 200px;
+    object-fit: cover;
+}
+    
+.single-bio-content {
+    position: relative;
+    right: 0;
+    background: #f6f6f6;
+}  
+    
+nav#cssmenu {
+    margin-top: 20px;
+}
+    
+.logo img {
+    max-width: 160px;
+} 
+    
+.silicon-slopes-main-inner {
+    min-height: 140px;
+} 
+    
+#inner-page-banner h1 {
+    font-size: 36px;
+}    
+}
+
+@media (max-width: 640px) {
+
+}
+
+@media (max-width: 600px) {
+
+}
+
+@media (max-width: 575px) {
+
+}
+
+@media (max-width: 550px) {
+	
+}
+@media (max-width: 420px) {
+	
+	
+}
+
+

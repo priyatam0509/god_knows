@@ -1,0 +1,145 @@
+/*
+Theme Name: HVP
+Theme URI: 
+Author: Linuxbean
+Author URI:
+Description: HVP is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere.
+Version: 1.9
+License: GNU General Public License v2 or later
+License URI:
+Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog
+Text Domain: twentysixteen
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+/**
+ * Table of Contents
+ *
+ * 1.0 - Normalize
+ * 2.0 - Genericons
+ * 3.0 - Typography
+ * 4.0 - Elements
+ * 5.0 - Forms
+ * 6.0 - Navigation
+ *   6.1 - Links
+ *   6.2 - Menus
+ * 7.0 - Accessibility
+ * 8.0 - Alignments
+ * 9.0 - Clearings
+ * 10.0 - Widgets
+ * 11.0 - Content
+ *    11.1 - Header
+ *    11.2 - Posts and pages
+ *    11.3 - Post Formats
+ *    11.4 - Comments
+ *    11.5 - Sidebar
+ *    11.6 - Footer
+ * 12.0 - Media
+ *    12.1 - Captions
+ *    12.2 - Galleries
+ * 13.0 - Multisite
+ * 14.0 - Media Queries
+ *    14.1 - >= 710px
+ *    14.2 - >= 783px
+ *    14.3 - >= 910px
+ *    14.4 - >= 985px
+ *    14.5 - >= 1200px
+ * 15.0 - Print
+ */
+
+
+/**
+ * 1.0 - Normalize
+ *
+ * Normalizing styles have been helped along thanks to the fine work of
+ * Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+ */
+
+.sfsi_tool_tip_2 {
+    display: none !important;
+}
+
+
+
+
+/*mobile*/
+@media only screen and (max-width: 479px)
+{
+.snip1531 figcaption {
+    opacity: 1;
+    top: 208px;
+}
+.snip1552 img {
+    opacity: 0.1;
+}
+
+.snip1552 {
+    height: 400px;
+    max-height: 527px !important;
+    border-bottom: 1px solid;
+}
+#social img.sfcm.sfsi_wicon {
+    opacity: 1;
+}
+span.title-medium {
+    display: none;
+}
+div#social {
+    opacity: 1;
+}
+.vid-info {
+    margin-top: 30% !important;
+}
+section.big-background {
+    min-height: 50vh !important;
+}
+article.type-post img {
+    height: 350px;
+}
+#inner-page-banner {
+    padding-top: 200px;
+}
+
+
+
+}
+
+/*mobile landscape*/
+@media only screen and (min-width: 480px) and (max-width: 767px)
+{
+.snip1531 figcaption {
+    opacity: 1;
+    top: 208px;
+}
+.snip1552 img {
+    opacity: 0.1;
+}
+
+.snip1552 {
+    height: 400px;
+    max-height: 527px !important;
+    border-bottom: 1px solid;
+}
+#social img.sfcm.sfsi_wicon {
+    opacity: 1;
+}
+span.title-medium {
+    display: none;
+}
+div#social {
+    opacity: 1;
+}
+.snip1552 h3, .snip1552 p{
+	opacity: 1;
+}
+.vid-info {
+    margin-top: 15% !important;
+}
+#inner-page-banner {
+    padding-top: 200px;
+}
+
+} 
