@@ -608,7 +608,7 @@ text-align: left;
     z-index: 123;
     color: #6DDB07;
     float: left;
-    margin-top: 20px;
+    margin-top: 32px;
     
 }
 
@@ -633,7 +633,7 @@ text-align: left;
 
 .navigation.sticky.scrolling .logo img{
     max-width: inherit;
-/*  margin-top: 5px;*/
+ margin-top: 10px;
 }
 
 .navigation.sticky.scrolling .logo {
