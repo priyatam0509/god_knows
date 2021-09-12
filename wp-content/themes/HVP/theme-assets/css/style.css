@@ -421,8 +421,7 @@ header {
   bottom: 0;
 /*  border: 10px solid rgba(255, 255, 255, 0.5);*/
 /*  margin: 10px;*/
-        background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.25) 0%, rgba(9, 10, 15, 0.8) 100%);
-    background: rgba(64, 67, 82, 0.5);
+      
 }
 
 .hero-content {
